@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.topContent{
+    width: 100vw;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+.head{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    padding-top: 25px;
+    text-align: center;
+    letter-spacing: 0.25em;
+    color: #FFFFFF;
+}
+.numToConvert{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.content{
+    padding: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+.inputNum{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+   padding: 25px;
+   color: #FFFFFF;
+    justify-content: center;
+    text-align: center;
+}
+
